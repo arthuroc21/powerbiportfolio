@@ -14,4 +14,4 @@ Thank you!
 
 This is a dashboard that I made using Power BI. It's part of a previous project that I did with SQL and PowerQuery (both are uploaded here, you can check on my other repositories), to manipulate my personal Uber data. With this report, I can visualise quick information about my trips, costs and rates on one page.
 
-https://app.powerbi.com/reportEmbed?reportId=dc4a0bbe-8ac8-4437-b2d8-e0babb6e0f4b&autoAuth=true&ctid=b7f05f02-6f05-4803-a125-46c6f88e91ec
+https://app.powerbi.com/view?r=eyJrIjoiMDQ0M2RiMDAtOTA2Mi00N2QwLTg0Y2UtY2ZmYTA1Mzg4MDQzIiwidCI6ImI3ZjA1ZjAyLTZmMDUtNDgwMy1hMTI1LTQ2YzZmODhlOTFlYyJ9
